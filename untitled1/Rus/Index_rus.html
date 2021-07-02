@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>פיצה של רומאו</title>
+    <link rel="stylesheet" href="css/webStyle.css">
+    <script src="./javaScript/Js.js"></script>
+</head>
+<body>
+<div class="Main">
+    <div id="menuDiv">
+        <img id="logo" src="img/images.jfif"/>
+        <div id="buttons">
+            <div>
+                <form class="language" method="get" name="form1" action="">
+                    <select name="language" >
+                        <option selected>Your Language</option>
+                        <option disabled>---Language---</option>
+                        <option value="../Index.html" >Hebrew</option>
+                        <option value="../Index_en.html">English</option>
+                        <option value="../Index_rus.html">Russian</option>
+                    </select>
+                    <input onclick="languageSection(form1)" type="button" value="choose">
+                </form>
+            </div>
+
+            <a class="links" href="./Rus/Cart.html">
+                <img src="img/shopping-bag--v1.png"/>
+            </a>
+            <a class="links" href="./Rus/contact.html">Связаться с нами </a>
+            <ul class="links">
+                <li>
+                    <a class="links">меню</a>
+                    <ul>
+                        <li><a href="./Rus/menu1.html">Сеть</a></li>
+                        <li><a href="./Rus/menu2.html">десерты</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <a class="links" href="Index_rus.html">дом</a>
+        </div>
+    </div>
+
+    <br>
+    <div id="wellcome">
+        <div id="login">
+
+            <br>
+            <p id="text_labels">Авторизоваться / зачисление</p>
+            <br>
+            <input class="user_pass" placeholder="Имя пользователя" type="text"/>
+            <input class="user_pass" placeholder="Пароль" type="password"/>
+            <div class="log_or_reg">
+                <button class="login_button">Авторизоваться</button>
+                <br>
+                <button onclick="location.href='Heb/register.html'" class="login_button">Зарегистрироваться</button>
+            </div>
+            <p>Или подключитесь через</p>
+            <div id="gmface">
+                <a href="http://www.facebook.com">
+                    <img class="imgFg" title="facebook" src="img/facebook.png"/>
+                </a>
+                <a href="http://www.gmail.com">
+                    <img class="imgFg" title="gmail" src="img/gmail.png"/>
+                </a>
+            </div>
+            <br>
+
+
+        </div>
+        <div id="Sales">
+            <h2>
+                Специальные предложения на этой неделе
+            </h2>
+            <marquee onmouseover="this.stop()" onmouseout="this.start()"
+                     direction="up" width=85% height=35% scrollamount="7">
+                <h5>Семейная пицца + напиток + гарнир
+                    <br>
+                    Начиная с 40 шек.
+                </h5>
+                <br>
+                <img class="pics" src="img/D1.jpg"/>
+                <p class="fa fa-shopping-bag" style="font-size:48px;color:red"></p>
+                <h5>Новый Новый Новый !!!! Разнообразие десертов
+                    <br>
+                    Итого 40 шек.
+                </h5>
+                <br>
+                <img class="pics" src="img/cack.jpg"/>
+
+
+            </marquee>
+        </div>
+    </div>
+    <br>
+    <div id="bottom_div">
+        <div id="aboutUs">
+            <h2>
+                О нас
+            </h2>
+            <marquee  direction="up" scrollamount="3">
+                <h3 >
+                    Lorem Ipsum боль сидят Амет, consectetur adipiscing Элит.
+                    <br>
+                    Proin СЭД диам Sapien. Sed Semper Урна изречение Tellus лациния vehicula.
+                    <br>
+                    Ут volutpat, augue Новичок auctor tincidunt, язычок сем pharetra дуй,
+                    <br>
+                    включенные в другие группировки tincidunt анте mauris ес диам.
+                    <br>
+                    Phasellus циветы nisl биография Cursus euismod. Suspendisse сидеть Амет Текущая Lectus.
+                    <br>
+                    Sed congue пипс pharetra dignissim aliquet.
+                    <br>
+                    Fusce Elementum эрос aliquam, sodales ниши Quis, sodales Magna.
+                    <br>
+                    Целое congue convallis adipiscing. Aliquam и требовалось volutpat.
+                    <br>
+                    Sed СЭД и требовалось Quis язычок Дознание luctus Commodo luctus Felis.
+                    <br>
+                    Quisque не SEM enim iaculis venenatis биография в Lorem.
+                </h3>
+            </marquee>
+        </div>
+
+    </div>
+
+</div>
+</body>
+</html>
+

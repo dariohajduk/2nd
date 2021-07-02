@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Romeo's Pizza</title>
+    <link rel="stylesheet" href="css/webStyle.css">
+    <script src="./javaScript/Js.js"></script>
+
+
+</head>
+<body>
+<div class="Main">
+    <div id="menuDiv">
+        <img id="logo" src="img/images.jfif"/>
+        <div id="buttons">
+            <div>
+                <form class="language" method="get" name="form1" action="">
+                    <select name="language" >
+                        <option selected>Your Language</option>
+                        <option disabled>---Language---</option>
+                        <option value="../Index.html" >Hebrew</option>
+                        <option value="../Index_en.html">English</option>
+                        <option value="../Index_rus.html">Russian</option>
+                    </select>
+                    <input onclick="languageSection(form1)" type="button" value="choose">
+                </form>
+            </div>
+
+            <a class="links" href="EN/Cart.html">
+                <img src="img/shopping-bag--v1.png"/>
+            </a>
+            <a class="links" href="EN/contact.html">Contact Us </a>
+            <ul class="links">
+                <li>
+                    <a class="links">Menu</a>
+                    <ul>
+                        <li><a href="Heb/menu1.html">Mains</a></li>
+                        <li><a href="Heb/menu2.html">Desserts</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <a class="links" href="Index_en.html">Main</a>
+        </div>
+    </div>
+
+    <br>
+    <div id="wellcome">
+        <div id="login">
+
+            <br>
+            <p id="text_labels">Login / Register</p>
+            <br>
+            <input class="user_pass" placeholder="User Name" type="text"/>
+            <input class="user_pass" placeholder="Password" type="password"/>
+            <div class="log_or_reg">
+                <button class="login_button">Login</button>
+                <br>
+                <button onclick="location.href='Heb/register.html'" class="login_button">registration</button>
+            </div>
+            <p>Or connect via</p>
+            <div id="gmface">
+                <a href="http://www.facebook.com">
+                    <img class="imgFg" title="facebook" src="img/facebook.png"/>
+                </a>
+                <a href="http://www.gmail.com">
+                    <img class="imgFg" title="gmail" src="img/gmail.png"/>
+                </a>
+            </div>
+            <br>
+
+
+        </div>
+        <div id="Sales">
+            <h2>
+                This week's specials
+            </h2>
+            <marquee onmouseover="this.stop()" onmouseout="this.start()"
+                     direction="up" width=85% height=35% scrollamount="7">
+                <h5>Family pizza + drink + topping
+                    <br>
+                    Starting from NIS 40
+                </h5>
+                <br>
+                <img class="pics" src="img/D1.jpg"/>
+                <p class="fa fa-shopping-bag" style="font-size:48px;color:red"></p>
+                <h5>New New New !!!! A variety of desserts
+                    <br>
+                    Starting from NIS 40
+                </h5>
+                <br>
+                <img class="pics" src="img/cack.jpg"/>
+
+
+            </marquee>
+        </div>
+    </div>
+    <br>
+    <div id="bottom_div">
+        <div id="aboutUs">
+            <h2>
+                About us
+            </h2>
+            <marquee  direction="up" scrollamount="3">
+                <h3 >
+                    Contrary to popular belief, Lorem Ipsum is not simply random text.
+                    <br>
+                    It has roots in a piece of classical Latin literature from 45 BC,
+                    <br>
+                    making it over 2000 years old. Richard McClintock,
+                    <br>
+                    a Latin professor at Hampden-Sydney College in Virginia,
+                    <br>
+                    looked up one of the more obscure Latin words, consectetur,
+                    <br>
+                    from a Lorem Ipsum passage, and going through the cites of the word in classical literature,
+                    <br>discovered the undoubtable source. Lorem Ipsum comes from sections
+                    <br>1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum"
+                    <br>
+                    (The Extremes of Good and Evil) by Cicero, written in 45 BC.
+                    <br>
+                    This book is a treatise on the theory of ethics, very popular during the Renaissance.
+                    <br>
+                    The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet.."
+                    <br>
+                    , comes from a line in section 1.10.32.
+                </h3>
+            </marquee>
+        </div>
+
+    </div>
+
+</div>
+</body>
+</html>
+

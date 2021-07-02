@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>פיצה של רומאו</title>
+    <link rel="stylesheet" href="../css/webStyle.css">
+    <script src="../javaScript/mainJS.js"></script>
+
+
+</head>
+<body onload="checkCookie()">
+<div class="Main">
+    <div id="menuDiv">
+        <img id="logo" src="../img/images.jfif" alt="logo"/>
+        <div id="buttons">
+            <div>
+                <form class="language" method="get" name="form1" action="">
+                    <select name="language">
+                        <option selected>Your Language</option>
+                        <option disabled>---Language---</option>
+                        <option value="../Index.html">Hebrew</option>
+                        <option value="../Index_en.html">English</option>
+                        <option value="../Index_rus.html">Russian</option>
+                    </select>
+                    <input onclick="languageSection(form1)" type="button" value="choose">
+                </form>
+            </div>
+
+            <a class="links" href="Cart.html">
+                <img src="../img/shopping-bag--v1.png"/>
+            </a>
+            <a class="links" href="contact.html">צור קשר </a>
+            <ul class="links">
+                <li>
+                    <a class="links">תפריט</a>
+                    <ul>
+                        <li><a href="menu1.html">עיקריות</a></li>
+                        <li><a href="menu2.html">קינוחים</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <a class="links" href="Index.html">ראשי</a>
+        </div>
+    </div>
+    <br>
+    <div id="welcome">
+        <div id="login">
+            <br>
+            <p id="text_labels">התחברות / הרשמה</p>
+            <br>
+            <input class="user_pass" placeholder="שם משתמש" type="text"/>
+            <input class="user_pass" placeholder="סיסמא" type="password"/>
+            <div class="log_or_reg">
+                <button class="login_button">התחברות</button>
+                <br>
+                <button onclick="document.getElementById('id01').style.display='block'" class="login_button">להרשמה
+                </button>
+                <div id="id01" class="modal">
+                    <form class="modal-content animate" method="post">
+                        <div>
+                            <span onclick="document.getElementById('id01').style.display='none'" class="close"
+                                  title="Close Modal">&times;</span>
+
+                            <br><br>
+                            <h1>טופס הרשמה</h1>
+                            <h3>בחרת אווטר</h3>
+                            <div>
+                            <div><form>
+                                <label class="avatars">
+                                    <input type="checkbox" name="avatar"/>
+                                    <img class="avatar" src="../img/girl.png" alt=""/>
+                                </label>
+
+                                <label class="avatars">
+                                    <input type="checkbox" name="avatar"/>
+                                    <img class="avatar" src="../img/cool.jpg" alt=""/>
+                                </label>
+
+                                <label class="avatars">
+                                    <input type="checkbox" name="avatar"/>
+                                    <img class="avatar" src="../img/shark.jpg" alt=""/>
+                                </label>
+
+                            </form>
+                            </div>
+                            <div><form name="details">
+                                <div >
+                                    <div>
+
+                                        <label >שם משתמש</label>
+                                        <input id="username"  placeholder="שם משתמש"
+                                               name="username" type="text"/>
+
+
+                                        <label >סיסמא</label>
+                                        <input  placeholder="סיסמא" name="password"
+                                                type="password"/>
+
+                                        <label>שם פרטי</label>
+                                            <input  placeholder="שם פרטי" name="firstName"
+                                                   type="text"/>
+                                    </div>
+
+                                </div>
+                            </form>
+                            </div></div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <p>או התחבר באמצעות</p>
+            <div id="gmface">
+                <a href="http://www.facebook.com">
+                    <img class="imgFg" title="facebook" src="../img/facebook.png"/>
+                </a>
+                <a href="http://www.gmail.com">
+                    <img class="imgFg" title="gmail" src="../img/gmail.png"/>
+                </a>
+            </div>
+            <br>
+
+
+        </div>
+        <div id="Sales">
+            <h2>
+                מבצעי השבוע
+            </h2>
+            <marquee onmouseover="this.stop()" onmouseout="this.start()"
+                     direction="up" width=85% height=35% scrollamount="7">
+                <h5>פיצה משפחתית + שתייה + תוספת
+                    <br>
+                    החל מ- ₪40
+                </h5>
+                <br>
+                <img class="pics" src="../img/D1.jpg"/>
+                <p class="fa fa-shopping-bag" style="font-size:48px;color:red"></p>
+                <h5> חדש חדש חדש!!!! מגוון קינוחים
+                    <br>
+                    סה"כ ₪40
+                </h5>
+                <br>
+                <img class="pics" src="../img/cack.jpg"/>
+
+
+            </marquee>
+        </div>
+    </div>
+    <br>
+    <div id="bottom_div">
+        <div id="aboutUs">
+            <h2>
+                אודותנו
+            </h2>
+            <marquee direction="up" scrollamount="3">
+                <h3>לורם איפסום
+
+                    לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית הועניב היושבב שערש שמחויט
+                    <br>
+                    - שלושע ותלברו חשלושעותלשך וחאית נובש ערששף.
+                    <br>
+                    זותה מנק הבקיץ אפאח דלאמת יבש, כאנה ניצאחו נמרגי שהכים תוק,
+                    <br>
+                    הדש שנרא התידם הכייר וק.
+                    <br>
+                    צש בליא, מנסוטו צמלח לביקו ננבי, צמוקו בלוקריה שיצמה ברורק.
+                    <br>
+                    סחטיר בלובק. תצטנפל בלינדו למרקל אס
+                    <br>
+                    לכימפו, דול, צוט ומעיוט - לפתיעם ברשג - ולתיעם גדדיש.
+                    <br>
+                    קוויז דומור ליאמום בלינך רוגצה. לפמעט מוסן
+                    <br>
+                    מנת. קולורס מונפרד אדנדום סילקוף, מרגשי ומרגשח.
+                    <br>
+                    עמחליף קולורס מונפרד אדנדום סילקוף, מרגשי ומרגשח.
+                    <br>
+                    עמחליף לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית.
+                    <br>
+                    סת אלמנקום ניסי נון ניבאה. דס איאקוליס
+                    <br>
+                    וולופטה דיאם. וסטיבולום אט דולור, קראס אגת לקטוס
+                    <br>
+                    וואל אאוגו וסטיבולום סוליסי טידום בעליק. קונדימנטום
+                    <br>
+                </h3>
+            </marquee>
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
+

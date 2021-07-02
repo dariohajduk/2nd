@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d86021e-ce60-48fb-91c6-12c48cea35a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../untitled/About.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/res/images/pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/EN/Cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/EN/Index_en.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/EN/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/EN/menu1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Heb/Cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Heb/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Heb/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Heb/menu1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Rus/Cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Rus/Index_rus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Rus/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/Rus/menu1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/css/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/css/webStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/Google_Pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/Pizza-Website-Background-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/ananas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/basal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/blackOlive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/bulgar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/cheese.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/cola.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/cool.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/corn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/depositphotos_68261337-stock-illustration-vector-logo-slice-of-pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/fanta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/g-icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/goat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/halapinio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/hazil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/header_back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/images - Copy (2).jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/images - Copy (3).jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/images - Copy.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/images.jfif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/index.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/mashrum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/olive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/peperoni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/pizza.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/shark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/shopping-bag--v1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/soda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/springtea.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/tuna.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/zeroCola.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/img/zeroSprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/javaScript/cookiesReg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/javaScript/language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/javaScript/mainJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/mouse pizza.cur" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qtTCOIJK8GzwAyhA4W2Um5Igiv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d86021e-ce60-48fb-91c6-12c48cea35a6" name="Default Changelist" comment="" />
+      <created>1617897758006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617897758006</updated>
+      <workItem from="1617897759795" duration="68000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
